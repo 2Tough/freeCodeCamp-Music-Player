@@ -1,2 +1,2 @@
-# freeCodeCamp-Music-Player
+# freecodecamp-music-player
 A music player app
